@@ -1,3 +1,4 @@
 Nombre
 Edad
 Juegos Actuales
+Juegos Favoritos
