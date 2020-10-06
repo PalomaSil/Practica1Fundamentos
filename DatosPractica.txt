@@ -4,5 +4,5 @@ Juegos Actuales: Ninguno
 Juegos Favoritos: Mario Bros
 Carrera: Ing. en computación
 Especialidad: No hay 
-Materia:
-Semestre:
+Materia:Fundamentos de Programación 
+Semestre:Tercero
